@@ -1,4 +1,6 @@
 ## Hi there 👋
+<img width="1408" height="736" alt="image" src="https://github.com/user-attachments/assets/a344bb89-e0b3-462b-86da-2dca1afdbed4" />
+
 
 <!--
 **Kunal-Kaushal/Kunal-Kaushal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
