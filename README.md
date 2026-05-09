@@ -34,9 +34,9 @@ When I'm not chasing better retrieval precision, I'm probably refactoring someth
 
 ---
 
-### What I'm building
+### What I've shipped
 
-**[Sentinel SOC](https://github.com/Kunal-Kaushal/Sentinel-SOC)** — a RAG-powered threat analysis dashboard that chews through 10K+ security logs and remembers attackers across sessions.
+**[Sentinel SOC](https://github.com/Kunal-Kaushal/RAG-Based-Cyber-Threat-Analyzer)** — a RAG-powered threat analysis dashboard that chews through 10K+ security logs and remembers attackers across sessions.
 
 **[Archon](https://github.com/Kunal-Kaushal/Archon)** — chat with 500+ documents from one command. Hybrid search, no Docker, no cloud, no excuses.
 
@@ -46,7 +46,7 @@ When I'm not chasing better retrieval precision, I'm probably refactoring someth
 
 ---
 
-### Stats
+### By the numbers
 
 <div align="center">
 
