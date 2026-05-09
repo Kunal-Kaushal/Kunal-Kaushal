@@ -2,14 +2,14 @@
 
 # 👋 Hey, I'm Kunal Kaushal
 
-### 🤖 Generative AI Developer | RAG Systems & Backend Engineering | B.Tech AI/ML '27
+### 🤖 Generative AI Developer · RAG Systems & Backend Engineering
 
 *Building production-grade LLM applications — from multi-agent workflows to threat-detection RAG pipelines.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kunalkaushal.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-kaushal-a95479299/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kunal_921/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunalkaushal921h@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-LINK)
 
 </div>
 
@@ -26,10 +26,9 @@ class KunalKaushal:
         self.focus      = ["RAG Systems", "Multi-Agent Workflows", "Backend APIs"]
         self.stack      = ["Python", "FastAPI", "Django", "Google ADK", "LangChain"]
         self.building   = "Advanced RAG pipelines & agentic LLM systems"
-        self.open_to    = ["GenAI Engineer Roles", "SDE Roles", "Internships — 2026"]
 
-    def say_hi(self):
-        print("Always shipping. Let's build something meaningful. 💡")
+    def philosophy(self):
+        print("Ship fast. Iterate faster. Always be building. 💡")
 ```
 
 ---
@@ -75,7 +74,7 @@ class KunalKaushal:
 
 `Python` `FastAPI` `RAG` `LLaMA 3.1` `FAISS` `Streamlit` `SQLite`
 - Context-aware attack detection using FAISS + SentenceTransformers
-- Multi-stage kill-chain analysis to correlate attacker behavior across log sequences
+- Multi-stage kill-chain analysis correlating attacker behavior across log sequences
 - Persistent attack memory in SQLite — tracks repeat offenders, escalates severity dynamically
 - Live SOC-style dashboard with severity distribution & blocked-IP intelligence
 
@@ -84,8 +83,8 @@ class KunalKaushal:
 
 `Python` `Gemini 2.0 Flash` `FAISS` `BM25` `LangChain`
 - Hybrid search (dense + sparse) — measurably better precision than standard vector search
-- Lightweight & memory-efficient design for large technical document collections
-- Works fully offline on local machines
+- Lightweight, memory-efficient design for large technical document collections
+- Runs fully offline on local machines
 
 ### 🤝 [Multi-Agent Leave Management System](https://github.com/Kunal-Kaushal/Leave-Management-System)
 > 5-agent workflow automating HR leave requests end-to-end
@@ -97,10 +96,10 @@ class KunalKaushal:
 ### 🏥 [Healthcare Backend API](https://github.com/Kunal-Kaushal/healthcare-backend)
 > Secure REST API for managing patients, doctors, and assignments
 
-`Django` `DRF` `PostgreSQL` `JWT` `Docker`
+`Django` `DRF` `PostgreSQL` `JWT`
 - JWT-authenticated endpoints with `djangorestframework-simplejwt`
 - Full CRUD for patients, doctors, and patient-doctor mappings
-- Environment-driven config, error handling, and ORM-modeled relations
+- Environment-driven config, robust error handling, ORM-modeled relations
 
 ---
 
@@ -117,12 +116,11 @@ class KunalKaushal:
 
 ---
 
-## 🎯 Currently
+## 🎯 Currently Building
 
-- 🔭 Deep-diving into **LLM engineering** — frontier model APIs, advanced RAG patterns, and agentic systems
-- 🧠 Exploring **multi-agent orchestration** beyond Google ADK — building tooling around evaluation & memory
+- 🔭 Going deeper into **LLM engineering** — frontier model APIs, advanced RAG patterns, and agentic systems
+- 🧠 Experimenting with **multi-agent orchestration** — evaluation frameworks, memory architectures, tool use
 - 💪 Sharpening DSA on [LeetCode](https://leetcode.com/u/kunal_921/)
-- 🎯 Open to **GenAI / SDE roles for the 2026 batch**
 
 ---
 
@@ -136,7 +134,7 @@ class KunalKaushal:
 
 ### 💡 *"Always shipping. Always learning."*
 
-📬 Reach me: **kunalkaushal921h@gmail.com** · 📍 Noida, UP, India
+🌐 [kunalkaushal.tech](https://kunalkaushal.tech) · 📍 Noida, India
 
 ![Profile views](https://komarev.com/ghpvc/?username=Kunal-Kaushal&label=Profile+views&color=00d9ff&style=flat)
 
