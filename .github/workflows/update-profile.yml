@@ -1,0 +1,67 @@
+name: Update Profile SVGs
+
+# ─────────────────────────────────────────────────────────────────────
+# Regenerates the dynamic SVG components (contribution heatmap and
+# boot sequence) daily, committing fresh images directly to the repo.
+#
+# Loop prevention: commits use [skip ci] to avoid recursive triggers.
+# ─────────────────────────────────────────────────────────────────────
+
+on:
+  schedule:
+    # Run daily at midnight UTC
+    - cron: '0 0 * * *'
+
+  # Allow manual trigger from the Actions tab
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-svgs:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      # ── 1. Checkout ─────────────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ── 2. Python setup ─────────────────────────────────────────
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # ── 3. Generate SVGs ────────────────────────────────────────
+      - name: Generate contribution heatmap
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+        run: python scripts/generate_heatmap.py
+
+
+
+      # ── 4. Commit & push (only if changed) ─────────────────────
+      - name: Commit updated SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/contribution_heatmap.svg
+
+          # Only commit if there are actual changes
+          if git diff --cached --quiet; then
+            echo "✓ No changes to commit — SVGs are up to date."
+          else
+            git commit -m "chore: regenerate dynamic SVGs [skip ci]"
+            git push
+            echo "✓ Updated SVGs committed and pushed."
+          fi
