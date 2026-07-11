@@ -7,3 +7,6 @@ test_ascii.py
 test_ascii.txt
 preview.html
 .DS_Store
+scripts/
+requirements.txt
+.github/workflows/update-profile.yml
