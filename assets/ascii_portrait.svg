@@ -1,0 +1,591 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="734" viewBox="0 0 680 734" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#111722"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+  <rect width="680" height="734" rx="12" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="679" height="733" rx="12" fill="none" stroke="#30363d" stroke-width="1"/>
+  <line x1="0" y1="30" x2="680" y2="30" stroke="#30363d"/>
+  <circle cx="20" cy="15.0" r="5" fill="#ff5f56"/>
+  <circle cx="36" cy="15.0" r="5" fill="#ffbd2e"/>
+  <circle cx="52" cy="15.0" r="5" fill="#27c93f"/>
+  <text x="340" y="19" fill="#7d8590" font-size="12" text-anchor="middle">kunal@github: ~$ ./portrait.sh</text>
+  <clipPath id="r0">
+    <rect x="20" y="37" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="0.000s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r0)">
+    <text xml:space="preserve" x="20" y="48.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing">                                                                                </text>
+  </g>
+  <rect y="38" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="0.000s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.000s"/>
+    <set attributeName="opacity" to="0" begin="0.110s"/>
+  </rect>
+  <clipPath id="r1">
+    <rect x="20" y="52" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="0.110s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r1)">
+    <text xml:space="preserve" x="20" y="63.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing">                                                                                </text>
+  </g>
+  <rect y="53" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="0.110s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.110s"/>
+    <set attributeName="opacity" to="0" begin="0.220s"/>
+  </rect>
+  <clipPath id="r2">
+    <rect x="20" y="67" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="0.220s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r2)">
+    <text xml:space="preserve" x="20" y="78.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing">                                                                                </text>
+  </g>
+  <rect y="68" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="0.220s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.220s"/>
+    <set attributeName="opacity" to="0" begin="0.330s"/>
+  </rect>
+  <clipPath id="r3">
+    <rect x="20" y="82" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="0.330s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r3)">
+    <text xml:space="preserve" x="20" y="93.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing">                                       000080080G                               </text>
+  </g>
+  <rect y="83" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="0.330s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.330s"/>
+    <set attributeName="opacity" to="0" begin="0.440s"/>
+  </rect>
+  <clipPath id="r4">
+    <rect x="20" y="97" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="0.440s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r4)">
+    <text xml:space="preserve" x="20" y="108.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing">                                     8888888888880000                           </text>
+  </g>
+  <rect y="98" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="0.440s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.440s"/>
+    <set attributeName="opacity" to="0" begin="0.550s"/>
+  </rect>
+  <clipPath id="r5">
+    <rect x="20" y="112" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="0.550s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r5)">
+    <text xml:space="preserve" x="20" y="123.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing">                                 8@8888@8@@88888@@@8880                         </text>
+  </g>
+  <rect y="113" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="0.550s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.550s"/>
+    <set attributeName="opacity" to="0" begin="0.660s"/>
+  </rect>
+  <clipPath id="r6">
+    <rect x="20" y="127" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="0.660s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r6)">
+    <text xml:space="preserve" x="20" y="138.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing">                               8@@##@@@#@@8@@@@@@@@@@8888                       </text>
+  </g>
+  <rect y="128" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="0.660s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.660s"/>
+    <set attributeName="opacity" to="0" begin="0.770s"/>
+  </rect>
+  <clipPath id="r7">
+    <rect x="20" y="142" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="0.770s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r7)">
+    <text xml:space="preserve" x="20" y="153.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing">                              8##@#@###@##@###@@@@@@@@@@@8                      </text>
+  </g>
+  <rect y="143" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="0.770s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.770s"/>
+    <set attributeName="opacity" to="0" begin="0.880s"/>
+  </rect>
+  <clipPath id="r8">
+    <rect x="20" y="157" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="0.880s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r8)">
+    <text xml:space="preserve" x="20" y="168.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing">                             0@##@@@###@#####@@@@@@@@@@@@8                      </text>
+  </g>
+  <rect y="158" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="0.880s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.880s"/>
+    <set attributeName="opacity" to="0" begin="0.990s"/>
+  </rect>
+  <clipPath id="r9">
+    <rect x="20" y="172" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="0.990s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r9)">
+    <text xml:space="preserve" x="20" y="183.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing">                             8@@@###@@@@@8@@@####@#@@#@@@@8                     </text>
+  </g>
+  <rect y="173" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="0.990s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.990s"/>
+    <set attributeName="opacity" to="0" begin="1.100s"/>
+  </rect>
+  <clipPath id="r10">
+    <rect x="20" y="187" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="1.100s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r10)">
+    <text xml:space="preserve" x="20" y="198.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing">                             8@###@@0GCCCffCG0@@@@@@@@@@@@                      </text>
+  </g>
+  <rect y="188" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="1.100s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="1.100s"/>
+    <set attributeName="opacity" to="0" begin="1.210s"/>
+  </rect>
+  <clipPath id="r11">
+    <rect x="20" y="202" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="1.210s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r11)">
+    <text xml:space="preserve" x="20" y="213.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing">                             8@##@@8GLfft1ttfLC0GGGGG88@@@                      </text>
+  </g>
+  <rect y="203" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="1.210s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="1.210s"/>
+    <set attributeName="opacity" to="0" begin="1.320s"/>
+  </rect>
+  <clipPath id="r12">
+    <rect x="20" y="217" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="1.320s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r12)">
+    <text xml:space="preserve" x="20" y="228.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing">                              @###8GLt1ii;;;ii1tttttfL0@@                       </text>
+  </g>
+  <rect y="218" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="1.320s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="1.320s"/>
+    <set attributeName="opacity" to="0" begin="1.430s"/>
+  </rect>
+  <clipPath id="r13">
+    <rect x="20" y="232" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="1.430s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r13)">
+    <text xml:space="preserve" x="20" y="243.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing">                              ###0LfLfLLfLf1ii;;;;iiit0#@                       </text>
+  </g>
+  <rect y="233" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="1.430s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="1.430s"/>
+    <set attributeName="opacity" to="0" begin="1.540s"/>
+  </rect>
+  <clipPath id="r14">
+    <rect x="20" y="247" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="1.540s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r14)">
+    <text xml:space="preserve" x="20" y="258.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing">                            LL0#@LfLC0G0088GftfLGGCLftC@                        </text>
+  </g>
+  <rect y="248" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="1.540s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="1.540s"/>
+    <set attributeName="opacity" to="0" begin="1.650s"/>
+  </rect>
+  <clipPath id="r15">
+    <rect x="20" y="262" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="1.650s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r15)">
+    <text xml:space="preserve" x="20" y="273.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing">                           LtttG8fftLGG0GG0C1iC@8800GCC@                        </text>
+  </g>
+  <rect y="263" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="1.650s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="1.650s"/>
+    <set attributeName="opacity" to="0" begin="1.760s"/>
+  </rect>
+  <clipPath id="r16">
+    <rect x="20" y="277" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="1.760s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r16)">
+    <text xml:space="preserve" x="20" y="288.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing">                           f1fLLCLf1iii111tt1itffCCGGfCC                        </text>
+  </g>
+  <rect y="278" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="1.760s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="1.760s"/>
+    <set attributeName="opacity" to="0" begin="1.870s"/>
+  </rect>
+  <clipPath id="r17">
+    <rect x="20" y="292" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="1.870s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r17)">
+    <text xml:space="preserve" x="20" y="303.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing">                           t1f1fLLt1i:;i1111;:i1;;iiitLtC                       </text>
+  </g>
+  <rect y="293" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="1.870s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="1.870s"/>
+    <set attributeName="opacity" to="0" begin="1.980s"/>
+  </rect>
+  <clipPath id="r18">
+    <rect x="20" y="307" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="1.980s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r18)">
+    <text xml:space="preserve" x="20" y="318.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing">                            t1tLLLft11ftfLLf11tt1i;;itL1                        </text>
+  </g>
+  <rect y="308" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="1.980s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="1.980s"/>
+    <set attributeName="opacity" to="0" begin="2.090s"/>
+  </rect>
+  <clipPath id="r19">
+    <rect x="20" y="322" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="2.090s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r19)">
+    <text xml:space="preserve" x="20" y="333.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing">                               CLfLffGLtfLLCGGGLtLt11ti1                        </text>
+  </g>
+  <rect y="323" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="2.090s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="2.090s"/>
+    <set attributeName="opacity" to="0" begin="2.200s"/>
+  </rect>
+  <clipPath id="r20">
+    <rect x="20" y="337" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="2.200s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r20)">
+    <text xml:space="preserve" x="20" y="348.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing">                                LffftfC0LftffLfLLGCffti                         </text>
+  </g>
+  <rect y="338" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="2.200s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="2.200s"/>
+    <set attributeName="opacity" to="0" begin="2.310s"/>
+  </rect>
+  <clipPath id="r21">
+    <rect x="20" y="352" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="2.310s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r21)">
+    <text xml:space="preserve" x="20" y="363.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing">                                fLfLt11tfti;;1LGLfffL                           </text>
+  </g>
+  <rect y="353" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="2.310s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="2.310s"/>
+    <set attributeName="opacity" to="0" begin="2.420s"/>
+  </rect>
+  <clipPath id="r22">
+    <rect x="20" y="367" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="2.420s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r22)">
+    <text xml:space="preserve" x="20" y="378.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing">                                tLCfLt111tffttt1itfL                            </text>
+  </g>
+  <rect y="368" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="2.420s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="2.420s"/>
+    <set attributeName="opacity" to="0" begin="2.530s"/>
+  </rect>
+  <clipPath id="r23">
+    <rect x="20" y="382" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="2.530s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r23)">
+    <text xml:space="preserve" x="20" y="393.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing">                               ftfGGCft1iiii1111tLC                             </text>
+  </g>
+  <rect y="383" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="2.530s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="2.530s"/>
+    <set attributeName="opacity" to="0" begin="2.640s"/>
+  </rect>
+  <clipPath id="r24">
+    <rect x="20" y="397" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="2.640s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r24)">
+    <text xml:space="preserve" x="20" y="408.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing">                               fttfG0GLft11iii1fC                               </text>
+  </g>
+  <rect y="398" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="2.640s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="2.640s"/>
+    <set attributeName="opacity" to="0" begin="2.750s"/>
+  </rect>
+  <clipPath id="r25">
+    <rect x="20" y="412" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="2.750s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r25)">
+    <text xml:space="preserve" x="20" y="423.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing">                              fttttLCG0000GGGCCL                                </text>
+  </g>
+  <rect y="413" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="2.750s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="2.750s"/>
+    <set attributeName="opacity" to="0" begin="2.860s"/>
+  </rect>
+  <clipPath id="r26">
+    <rect x="20" y="427" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="2.860s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r26)">
+    <text xml:space="preserve" x="20" y="438.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing">                             fft11ttfLLG800GCLff                                </text>
+  </g>
+  <rect y="428" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="2.860s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="2.860s"/>
+    <set attributeName="opacity" to="0" begin="2.970s"/>
+  </rect>
+  <clipPath id="r27">
+    <rect x="20" y="442" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="2.970s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r27)">
+    <text xml:space="preserve" x="20" y="453.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing">                        088C1fftt11ttfLLCGCLffttt                               </text>
+  </g>
+  <rect y="443" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="2.970s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="2.970s"/>
+    <set attributeName="opacity" to="0" begin="3.080s"/>
+  </rect>
+  <clipPath id="r28">
+    <rect x="20" y="457" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="3.080s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r28)">
+    <text xml:space="preserve" x="20" y="468.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing">                    0888@@@8ftfttt11tffLLLLftt1t1t80                            </text>
+  </g>
+  <rect y="458" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="3.080s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="3.080s"/>
+    <set attributeName="opacity" to="0" begin="3.190s"/>
+  </rect>
+  <clipPath id="r29">
+    <rect x="20" y="472" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="3.190s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r29)">
+    <text xml:space="preserve" x="20" y="483.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing">                88888@@@@@@@@L11ttt1ttffftt11111t0@8808                         </text>
+  </g>
+  <rect y="473" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="3.190s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="3.190s"/>
+    <set attributeName="opacity" to="0" begin="3.300s"/>
+  </rect>
+  <clipPath id="r30">
+    <rect x="20" y="487" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="3.300s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r30)">
+    <text xml:space="preserve" x="20" y="498.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing">            00888888@@@@@@@@@@0f1ttttfffftii111f8@@@8888800                     </text>
+  </g>
+  <rect y="488" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="3.300s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="3.300s"/>
+    <set attributeName="opacity" to="0" begin="3.410s"/>
+  </rect>
+  <clipPath id="r31">
+    <rect x="20" y="502" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="3.410s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r31)">
+    <text xml:space="preserve" x="20" y="513.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing">        G000888888888@8@@@@@@@#@0CLt11t1i;i1tfG@@88@8888888800                  </text>
+  </g>
+  <rect y="503" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="3.410s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="3.410s"/>
+    <set attributeName="opacity" to="0" begin="3.520s"/>
+  </rect>
+  <clipPath id="r32">
+    <rect x="20" y="517" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="3.520s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r32)">
+    <text xml:space="preserve" x="20" y="528.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing">      00888888888@@@@@@@@@@@@@@@@#@8GCLffLC08@@88888888888888800G               </text>
+  </g>
+  <rect y="518" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="3.520s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="3.520s"/>
+    <set attributeName="opacity" to="0" begin="3.630s"/>
+  </rect>
+  <clipPath id="r33">
+    <rect x="20" y="532" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="3.630s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r33)">
+    <text xml:space="preserve" x="20" y="543.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing">     88888888888@88@@@@@@@@@@@@@@@@@######@@@@@@@@@8888888@88888800             </text>
+  </g>
+  <rect y="533" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="3.630s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="3.630s"/>
+    <set attributeName="opacity" to="0" begin="3.740s"/>
+  </rect>
+  <clipPath id="r34">
+    <rect x="20" y="547" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="3.740s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r34)">
+    <text xml:space="preserve" x="20" y="558.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing">   088@88888888@88@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@888888@888888880G           </text>
+  </g>
+  <rect y="548" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="3.740s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="3.740s"/>
+    <set attributeName="opacity" to="0" begin="3.850s"/>
+  </rect>
+  <clipPath id="r35">
+    <rect x="20" y="562" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="3.850s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r35)">
+    <text xml:space="preserve" x="20" y="573.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing">  88@@@@88@@@@@@@@@@8@@@@@@@@@@@@@@@@@@@@@@@@@@@@8@@8888@8@8@888888800          </text>
+  </g>
+  <rect y="563" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="3.850s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="3.850s"/>
+    <set attributeName="opacity" to="0" begin="3.960s"/>
+  </rect>
+  <clipPath id="r36">
+    <rect x="20" y="577" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="3.960s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r36)">
+    <text xml:space="preserve" x="20" y="588.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing"> 08@@@@@@8@@@@@@@@@@@8@@@@@@@@@@@@@@@@@@@@@@@@@@@8@@8@@88888@@8@8@88800         </text>
+  </g>
+  <rect y="578" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="3.960s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="3.960s"/>
+    <set attributeName="opacity" to="0" begin="4.070s"/>
+  </rect>
+  <clipPath id="r37">
+    <rect x="20" y="592" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="4.070s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r37)">
+    <text xml:space="preserve" x="20" y="603.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing">08@@@@@@@@@@@@@@@@8888@@@@@@@@@@@@@@@@@@@@@@@@8@@@@8888@8888@@8@@@@@880         </text>
+  </g>
+  <rect y="593" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="4.070s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="4.070s"/>
+    <set attributeName="opacity" to="0" begin="4.180s"/>
+  </rect>
+  <clipPath id="r38">
+    <rect x="20" y="607" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="4.180s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r38)">
+    <text xml:space="preserve" x="20" y="618.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing">8@@@@@@@@#@@@@@@@@@@88@@@@@@@@@@@8@@@@@@@@@@@@8@@@@88888@888@@@@@@@@8888        </text>
+  </g>
+  <rect y="608" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="4.180s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="4.180s"/>
+    <set attributeName="opacity" to="0" begin="4.290s"/>
+  </rect>
+  <clipPath id="r39">
+    <rect x="20" y="622" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="4.290s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r39)">
+    <text xml:space="preserve" x="20" y="633.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing">8@@@@@@@@#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@88@@888@@@@@@@@@888       </text>
+  </g>
+  <rect y="623" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="4.290s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="4.290s"/>
+    <set attributeName="opacity" to="0" begin="4.400s"/>
+  </rect>
+  <clipPath id="r40">
+    <rect x="20" y="637" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="4.400s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r40)">
+    <text xml:space="preserve" x="20" y="648.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing">@@@@@@@#####@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@8@888@@8@@@@@@@@@888       </text>
+  </g>
+  <rect y="638" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="4.400s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="4.400s"/>
+    <set attributeName="opacity" to="0" begin="4.510s"/>
+  </rect>
+  <clipPath id="r41">
+    <rect x="20" y="652" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="4.510s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r41)">
+    <text xml:space="preserve" x="20" y="663.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing">@@@@@@######@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@8@888@@@###@@@@@88@8      </text>
+  </g>
+  <rect y="653" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="4.510s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="4.510s"/>
+    <set attributeName="opacity" to="0" begin="4.620s"/>
+  </rect>
+  <clipPath id="r42">
+    <rect x="20" y="667" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="4.620s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r42)">
+    <text xml:space="preserve" x="20" y="678.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing">@@@@#@######@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@8@@@##@@@@@@@@8      </text>
+  </g>
+  <rect y="668" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="4.620s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="4.620s"/>
+    <set attributeName="opacity" to="0" begin="4.730s"/>
+  </rect>
+  <clipPath id="r43">
+    <rect x="20" y="682" height="15" width="0">
+      <animate attributeName="width" from="0" to="640" begin="4.730s" dur="0.11s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#r43)">
+    <text xml:space="preserve" x="20" y="693.1" fill="#c9d1d9" font-size="12.9" textLength="640" lengthAdjust="spacing">@@@@@#@######@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@###@@@@@@@80     </text>
+  </g>
+  <rect y="683" width="8" height="13" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="20" to="660" begin="4.730s" dur="0.11s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="4.730s"/>
+    <set attributeName="opacity" to="0" begin="4.840s"/>
+  </rect>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="5.1s" dur="0.4s" fill="freeze"/>
+    <text x="20" y="712" font-family="'Courier New', monospace" font-size="12.9"><tspan fill="#7d8590">kunal@github:~$ </tspan><tspan fill="#c9d1d9">whoami </tspan><tspan fill="#58a6ff" font-weight="bold">Kunal Kaushal</tspan></text>
+  </g>
+</svg>
