@@ -22,7 +22,7 @@
 <!-- GitHub Stats                                                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <a href="https://github.com/Kunal-Kaushal">
-  <img src="https://github-readme-stats.shion.dev/api?username=Kunal-Kaushal&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" height="195" alt="Kunal's GitHub stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Kunal-Kaushal&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&hide_rank=true" height="195" alt="Kunal's GitHub stats" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Kunal-Kaushal&layout=compact&theme=transparent&hide_border=true&title_color=00d9ff&text_color=ffffff" height="195" alt="Top Languages" />
 </a>
 <br>

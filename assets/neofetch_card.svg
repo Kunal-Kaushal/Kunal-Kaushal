@@ -59,7 +59,7 @@
     <text class="mono" x="36" y="284"><tspan fill="#d29922" font-weight="bold">Cloud</tspan><tspan fill="#c9d1d9">: GCP (Cloud Run) · AWS</tspan></text>
   </g>
   <g clip-path="url(#wipe-row-9)">
-    <text class="mono" x="36" y="308"><tspan fill="#8b949e" font-weight="bold">Education</tspan><tspan fill="#c9d1d9">: B.Tech AI & ML @ GL Bajaj</tspan></text>
+    <text class="mono" x="36" y="308"><tspan fill="#8b949e" font-weight="bold">Education</tspan><tspan fill="#c9d1d9">: B.Tech AI &amp; ML @ GL Bajaj</tspan></text>
   </g>
   <g clip-path="url(#wipe-row-10)">
     <text class="mono" x="36" y="332"><tspan fill="#ff7b72" font-weight="bold">Status</tspan><tspan fill="#c9d1d9">: Building production-grade AI systems</tspan></text>
