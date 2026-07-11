@@ -1,1 +1,9 @@
 __pycache__/
+*.pyc
+.venv/
+venv/
+env/
+test_ascii.py
+test_ascii.txt
+preview.html
+.DS_Store

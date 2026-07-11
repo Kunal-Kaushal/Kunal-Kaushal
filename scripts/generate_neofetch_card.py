@@ -39,14 +39,14 @@ VALUE_COLOR = "#c9d1d9"
 
 # Per-label accent colors (curated palette)
 LABEL_COLORS = {
-    "OS": "#58a6ff",
-    "Kernel": "#f0883e",
-    "Frameworks": "#a371f7",
-    "Search": "#3fb950",
-    "API": "#f778ba",
-    "Database": "#79c0ff",
-    "Infra": "#d29922",
+    "Role": "#58a6ff",
     "Focus": "#56d364",
+    "Languages": "#f0883e",
+    "Frameworks": "#a371f7",
+    "Backend": "#f778ba",
+    "Database": "#79c0ff",
+    "Cloud": "#d29922",
+    "Education": "#8b949e",
     "Status": "#ff7b72",
 }
 
@@ -67,15 +67,15 @@ LOGO_LINES = []
 INFO_LINES = [
     ("", f"{GITHUB_USERNAME}@genai-workstation"),
     ("", "─" * 40),
-    ("OS", "GenAI Developer @ Production"),
-    ("Kernel", "Python 3.11+"),
-    ("Frameworks", "LangChain · LangGraph · CrewAI"),
-    ("Search", "FAISS · Hybrid Vector Search"),
-    ("API", "FastAPI · gRPC"),
-    ("Database", "PostgreSQL · ChromaDB"),
-    ("Infra", "Docker · Kubernetes · GCP"),
-    ("Focus", "RAG Pipelines · Multi-Agent Systems"),
-    ("Status", "Building the future of AI backends"),
+    ("Role", "AI Intern @ Droisys"),
+    ("Focus", "GenAI · RAG · Agentic Workflows"),
+    ("Languages", "Python · C/C++"),
+    ("Frameworks", "LangChain · Google ADK"),
+    ("Backend", "FastAPI · Flask"),
+    ("Database", "SQL · NoSQL · Firestore"),
+    ("Cloud", "GCP (Cloud Run) · AWS"),
+    ("Education", "B.Tech AI & ML @ GL Bajaj"),
+    ("Status", "Building production-grade AI systems"),
 ]
 
 def generate_neofetch_svg(output_path: str) -> None:
